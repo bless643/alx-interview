@@ -1,2 +1,1 @@
-lx-interview
 # alx-interview
