@@ -1,1 +1,1 @@
-scal_triangle
+pascals triangle
